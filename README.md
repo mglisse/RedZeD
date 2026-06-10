@@ -1,3 +1,9 @@
+Fork for experiments, starting from an automatic translation of the Julia code to C++ (seems almost 2✕ faster).
+
+(Same license as the original)
+
+---
+
 This repository contains the code associated with the paper RedZeD: Computing persistent homology by Reduction to Zero Differentials by Chris Kapulkin and Nathan Kershaw.
 
 
